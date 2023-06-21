@@ -20,3 +20,6 @@ variable "profile_name" {
   default = "SSM_Role"
 }
 
+variable "region" {
+  default = "us-east-1"
+}
